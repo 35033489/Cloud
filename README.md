@@ -99,6 +99,5 @@ The solution uses a GitOps approach with the following workflow:
 3. Commit changes
 4. Create pull request
 
-## License
-
-MIT License
+## Confluence 
+https://cloud-dba.atlassian.net/wiki/x/AYCnB
